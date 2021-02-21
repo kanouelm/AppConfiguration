@@ -2,6 +2,10 @@
 #random value
 #token.secret = hfgry463hf746hf573ydh475fhy5739
 #login.url.path=/users/login
+token:
+  expiration_time: 86400
+token:
+  secret: hfgry463hf746hf573ydh475fhy5739222
 eureka:
   client:
     service-url: http://localhost:8761/eureka
